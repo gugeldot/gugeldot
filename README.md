@@ -1,6 +1,16 @@
 ## Hi there, I'm Gugeldot! 🐥
 <img src="img/bannerGithub.png">
 
+## Projects
+- 🚀[**Gugeldots Site**](https://gugeldot.github.io/gugeldots-site/)  
+    - Project to learn HTML, CSS, JavaScript and GitHub API
+
+- 🎮[**SLYS Web**](https://gugeldot.github.io/slys-web/)  
+    - SLYS is a lightweight tool that securely fragments and encrypts your files — no cloud, no noise, just pure privacy.
+
+    - Built in Rust & Flutter
+
+
 
 ## Statistics
 <div style="display: flex; justify-content: center;">
@@ -10,19 +20,3 @@
   </a>
 </div>
 
-
-
-<!--
-**gugeldot/gugeldot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
