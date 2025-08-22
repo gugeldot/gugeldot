@@ -1,5 +1,9 @@
 ## Hi there, I'm Gugeldot! 🐥
 <img src="img/bannerGithub.png">
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/gugeldot.png" alt="TryHackMe Badge" />
+  <img src="img/htb.png">
+</p>
 
 ## Projects
 - 🚀[**Gugeldots Site**](https://gugeldot.github.io/gugeldots-site/)  
@@ -19,4 +23,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gugeldot&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </div>
+
+
+
 
