@@ -1,8 +1,12 @@
-## Hi there, I'm Gugeldot! 🐥
+## Hi there 🐥 :octocat:
 <img src="img/bannerGithub.png">
 <p align="center">
+  <a href="https://tryhackme.com/p/gugeldot"> 
   <img src="https://tryhackme-badges.s3.amazonaws.com/gugeldot.png" alt="TryHackMe Badge" />
-  <img src="img/htb.png">
+  </a>
+  <a href="https://app.hackthebox.com/users/2388245"> 
+  <img src="img/htb.png" height="85">
+  </a>
 </p>
 
 ## Projects
