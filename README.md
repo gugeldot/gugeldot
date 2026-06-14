@@ -1,4 +1,3 @@
-## Hi there 🐥 :octocat:
 <img src="img/bannerGithub.png">
 <p align="center">
   <a href="https://tryhackme.com/p/gugeldot"> 
