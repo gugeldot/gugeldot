@@ -16,26 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://gugeldot.github.io/gugeldots-site/">
-    <img src="https://img.shields.io/badge/Portfolio-gugeldot.github.io-7209b7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://linkedin.com/in/rodrigo-palomo-cuenca">
-    <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Palomo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gugeldot23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gugeldot23%40gmail.com-7209b7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<br>
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,html,css,js,rust,flutter" alt="Tech stack icons">
-</p>
-
 <br>
 
 ## 🚀 Projects
@@ -60,9 +40,17 @@
 
 <br>
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,windows,powershell,bash,python,kubernetes,docker,git&perline=9" alt="Tech stack icons">
+</p>
+
+<br>
+
 ## 📊 Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gugeldot&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=9d4edd&icon_color=7209b7&text_color=e0e0e0&bg_color=0a0a0a&border_color=3c096c&border_radius=8" alt="gugeldot's GitHub stats">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gugeldot&layout=compact&langs_count=8&theme=dark&title_color=9d4edd&text_color=e0e0e0&bg_color=0a0a0a&border_color=3c096c&border_radius=8" alt="gugeldot's most used languages">
+  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gugeldot&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=9d4edd&icon_color=7209b7&text_color=e0e0e0&bg_color=0a0a0a&border_color=3c096c&border_radius=8" alt="gugeldot's GitHub stats">
+  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gugeldot&layout=donut-vertical&langs_count=8&theme=dark&title_color=9d4edd&text_color=e0e0e0&bg_color=0a0a0a&border_color=3c096c&border_radius=8" alt="gugeldot's most used languages">
 </p>
