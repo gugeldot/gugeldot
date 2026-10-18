@@ -18,7 +18,7 @@
 
 <br>
 
-## 🚀 Projects
+## Projects
 
 <table>
   <tr>
@@ -40,7 +40,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,windows,powershell,bash,python,kubernetes,docker,git&perline=9" alt="Tech stack icons">
@@ -48,9 +48,15 @@
 
 <br>
 
-## 📊 Statistics
+## Statistics
 
-<p align="center">
-  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gugeldot&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=9d4edd&icon_color=7209b7&text_color=e0e0e0&bg_color=0a0a0a&border_color=3c096c&border_radius=8" alt="gugeldot's GitHub stats">
-  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gugeldot&layout=donut-vertical&langs_count=8&theme=dark&title_color=9d4edd&text_color=e0e0e0&bg_color=0a0a0a&border_color=3c096c&border_radius=8" alt="gugeldot's most used languages">
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gugeldot&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=9d4edd&icon_color=7209b7&text_color=e0e0e0&bg_color=0a0a0a&border_color=3c096c&border_radius=8" alt="gugeldot's GitHub stats">
+    </td>
+    <td valign="top">
+      <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gugeldot&layout=donut-vertical&langs_count=8&theme=dark&title_color=9d4edd&text_color=e0e0e0&bg_color=0a0a0a&border_color=3c096c&border_radius=8" alt="gugeldot's most used languages">
+    </td>
+  </tr>
+</table>
